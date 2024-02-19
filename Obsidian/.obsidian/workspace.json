@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "b19e97324d79aa2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cb023c726c7c312",
+        "type": "tabs",
+        "dimension": 63.695781342840164,
+        "children": [
+          {
+            "id": "1718c0ac97ab6361",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3dacbbe825665707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian 101/🏡 Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "10b312c6a90b30a7",
+        "type": "tabs",
+        "dimension": 36.304218657159836,
+        "children": [
+          {
+            "id": "6600a39e55850aff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian 101/Atlas/Note/따라하기.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b70e31b7f2607eaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "251fc705aa9ee07e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44cec36e3589937d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7dda4cd6105cf04c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "877c843eb0fe9ce7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7440bc5f38f39eed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fb6b4f2eaeca6e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f94c7cdaa2f3e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian 101/🏡 Home.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "12534a8a6f871e1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian 101/🏡 Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae25d9c930f0044d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f1a3ad47edc1329b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian 101/🏡 Home.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e8f2d77bb37395d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecf8c288cddbb18b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Obsidian 101/🏡 Home.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.3814725094310571,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "floating": {
+    "id": "822c84de362790d0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "022f52a57c38ca94",
+        "type": "window",
+        "children": [
+          {
+            "id": "fdfd51357874c9e7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e457dce405d3a22a",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 36,
+        "width": 600,
+        "height": 880,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3dacbbe825665707",
+  "lastOpenFiles": [
+    "Obsidian 101/Atlas/Note/따라하기.md",
+    "Obsidian 101/Atlas/Maps/옵시디언 101 가이드 사용법.md",
+    "Obsidian 101/+/노트 연결.md",
+    "Obsidian 101/Atlas/Note/노트 관리법.md",
+    "Obsidian 101/Atlas/Note/블록 레퍼런스.md",
+    "Obsidian 101/Atlas/Note/플러그인.md",
+    "Obsidian 101/Atlas/Note/기본 및 필수 설정.md",
+    "Obsidian 101/Atlas/Note/마크다운과 문법들.md",
+    "링크.md",
+    "Obsidian 101/+/Properties 샘플.md",
+    "Obsidian 101/Atlas/Note/파일 관리 및 편집기 기본.md",
+    "Obsidian 101/Atlas/Note/핀 테스트.md",
+    "Obsidian 101/Atlas/Note/옵시디언과 친해지기.md",
+    "Obsidian 101/🏡 Home.md",
+    "Obsidian 101/+/CCC.md",
+    "Obsidian 101/+/BBB.md",
+    "Obsidian 101/+/AAA.md",
+    "Markdown.md",
+    "Obsidian 101/Settings/Templates/Template - 기본.md",
+    "Obsidian 101/Settings/Templates/Dataview 노트에 연결된 페이지 보기.md",
+    "Obsidian 101/Settings/Attachments/핀 방법.png",
+    "Obsidian 101/Settings/Attachments/편집 모드-미리보기 모드.png",
+    "Obsidian 101/Settings/Attachments/파일 탐색기.png",
+    "Obsidian 101/Settings/Attachments/태그 플러그인.png",
+    "Obsidian 101/Settings/Attachments/콜아웃 CSS.png",
+    "Obsidian 101/Settings/Attachments/책.svg",
+    "Obsidian 101/Settings/Attachments/지구.svg",
+    "Obsidian 101/Settings/Attachments/좌-루트-우.png",
+    "Obsidian 101/Settings/Attachments/좋은메모 2.png",
+    "Obsidian 101/Settings/Attachments/좋은 메모.png",
+    "Obsidian 101/Settings/Attachments/메모 철학 5S.md",
+    "Obsidian 101/Atlas/Note/캔버스 샘플.canvas",
+    "Obsidian 101/Atlas/Note/지식을 어떻게 연결시키고 관리할 것인가.md",
+    "Obsidian 101/Atlas/Note/정보의 홍수에서 살겠습니까 정보의 우주에서 살겠습니까.md",
+    "Obsidian 101/Atlas/Note/정보와 지식을 넘어 지혜로.md",
+    "Obsidian 101/Atlas/Note/무엇을 메모할 것인가.md",
+    "Obsidian 101/Atlas/Note/단축키.md",
+    "Obsidian 101/Settings/Templates",
+    "Obsidian 101/Settings/Fonts",
+    "Obsidian 101/Settings/Attachments",
+    "Obsidian 101/Calendar/Daily Note",
+    "Obsidian 101/Atlas/Note",
+    "Obsidian 101/Atlas/Maps",
+    "Obsidian 101/Atlas/Drawings",
+    "Obsidian 101/Settings",
+    "Obsidian 101/+",
+    "Obsidian 101/Effort",
+    "Obsidian 102/Atlas/Note/캔버스 샘플.canvas",
+    "Untitled.canvas"
+  ]
+}
