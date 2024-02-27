@@ -705,3 +705,233 @@ print(" ".join(["010", "1234", "5678"]))
 print("|".join(["010", "1234", "5678"]))
 ```
 
+## [[사용자 정의 함수]]
+
+## 리턴
+
+- 함수의 결과 → 반환값 / 리턴값
+
+### **자료 없이 리턴**
+
+키워드 `return`: 함수를 실행했던 위치로 돌아가라는 의미 + 함수를 여기서 끝내라는 의미
+
+```py
+
+def return_test():
+    print("A")
+    return
+    print("B")
+	
+return_test()
+
+```
+
+⇒ `return`을 만나면서 함수가 종료되어 "A"가 출력된다.
+
+  
+
+### **자료와 함께 리턴**
+
+`return`+ `자료`: 자료를 가지고 리턴한다.(돌아간다.)
+
+```py
+
+# 함수를 정의한다.
+def return_test():
+    return "B"
+
+# 함수를 호출한다.
+str = return_test()
+print(str)
+
+# 가장 일반적인 방식
+def return_test2():
+    a = 3 + 2
+    return a
+
+value = return_test2()
+print(value)
+
+```
+
+  
+
+### **아무것도 리턴하지 않기 = None**
+
+  
+
+파이썬에서 **None**은 '없다'라는 의미
+
+```py
+
+def return_test():
+    return
+value = return_test()
+
+print(value)
+
+```
+
+  
+
+## 함수의 활용
+
+  
+
+### 재귀함수
+
+재귀: 자기 자신을 호출하는 것
+
+- 재귀함수의 문제점
+
+    - 상황에 따라 같은 내용을 기하급수적으로 반복함 → ****메모화** 사용으로 해결
+
+**메모화**
+
+: 재귀 함수와 함께 많이 사용되는 방법
+
+- 같은 값을 반복해서 구하지 않고 딕셔너리 자료형에 저장 → 메모 변수
+
+- 새로운 값만 계산할 수 있게 코딩
+
+  
+
+**조기 리턴**
+
+    - 코드 중간에 키워드 `return` 사용하는 것
+
+  
+  
+
+### 변수 사용 범위
+
+1. 지역 변수 - 함수 내부에서만 사용
+
+2. 전역 변수 - 프로그램 전체에서 사용
+
+    - 함수 내에서 지역 변수를 전역 변수로 선언하는 방법 - 키워드 `global`
+
+```py
+
+def test():
+    global s
+    s = "지역변수"
+    print()
+
+s = "전역변수"
+test()
+print(s) # 지역변수로 출력됨
+```
+
+↪ `global` 선언을 했기에 위 와 아래의 `s`가 같은 변수가 되었다.
+
+  
+
+## 콜백 함수
+: 함수의 매개변수에 사용하는 함수
+- 함수라는 기능을 매개변수로 전달
+```py
+def repeat_10(x):
+	for i in range(10): # calling a function
+		x() 
+def print_hi(): # print_hi = callback function
+	print("hi")
+repeat_10(print_hi) 
+```
+
+### 함수 map(콜백 함수, 리스트)
+: 리스트 등 <u>시퀀스 자료형</u>에서 요소마다 **같은 기능을 적용**할 때 주로 사용
+ex) 리스트의 요소를 함수에 넣고 리턴된 값으로 새로운 리스트로 구성
+
+- list 사용 할 때:
+	```py
+	def sqr(x):
+		return x ** 2
+	list_a = [1, 2, 3]
+	output_map = map(sqr, list_a) # sqr = callback function
+	print(output_map) # generator
+	print(list(output_map))
+	```
+
+- list 사용 안 할 때:
+	```py
+	def sqr(x):
+		return x ** 2
+	list_a = [1, 2, 3]
+	for i in map(sqr, list_a):
+		print(i)
+	```
+
+- 2개 이상의 시퀀스 자료형 처리 = zip 함수
+```py
+def test(x, y):
+	return x + y
+
+list_a = [1, 2, 3]
+output_map = map(test, list_a, list_a)
+print(output_map)
+print(list(output_map))
+```
+python tutor: https://pythontutor.com/render.html#mode=display
+
+```py
+list_a = [1, 2, 3]
+print([x + y for x, y in zip(list_a, list_a)])
+```
+### 함수 reduce
+: 리스트와 같은 시퀀스의 모든 요소를 **누적적**으로 함수에 적용
+```py
+from functools import reduce
+
+numbers = [1, 2, 3, 4, 5]
+def multiply(x, y):
+	return x * y
+
+result = reduce(multiply, numbers)
+print(result)
+```
+
+### 함수 filter
+: 리스트의 요소를 함수에 넣고 **리턴된 값이 True**인 것으로 새로운 리스트 구성
+```py
+numbers = [1, 2, 3, 4, 5]
+def is_even(num):
+	return num % 2 == 0
+
+evens = filter(is_even, numbers)
+print(list(evens))
+```
+
+## 람다
+- 간단한 함수를 쉽게 선언하는 방법
+> lambda 매개변수: 리턴값
+
+## 딕셔너리에서 함수 사용
+
+  
+
+# 파일 읽기
+
+  
+
+## 텍스트 파일 처리
+
+  
+
+### 파일 열기 & 닫기
+
+  
+
+### 파일에 텍스트 쓰기
+
+  
+
+### 파일 읽기
+
+  
+
+### 키워드 with
+
+  
+
+### 텍스트 파일 한 줄씩 읽기
