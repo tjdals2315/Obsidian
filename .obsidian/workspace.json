@@ -4,58 +4,134 @@
     "type": "split",
     "children": [
       {
-        "id": "9475c137c7196e98",
+        "id": "5632729d8dd9d84b",
         "type": "tabs",
+        "dimension": 56.14035087719298,
         "children": [
           {
-            "id": "1ebe6341bab97eb9",
+            "id": "e17dc81f8240ca74",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "94b0d6a06dc58bed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Basic Python Programming.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9ae50645f0742834",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Atlas/Note/마크다운과 문법들.md",
-                "mode": "preview",
+                "file": "TIL/LS Bigdata School/이터레이터.md",
+                "mode": "source",
                 "source": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "1e5a18b3d03ff913",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "150489e1f8c0fa87",
+            "id": "6ced9f924b761cc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Atlas/Note/따라하기.md",
+                "file": "TIL/LS Bigdata School/Error.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "5cfd047bed33392b",
+        "id": "a774bd75892d672d",
         "type": "tabs",
+        "dimension": 43.859649122807014,
         "children": [
           {
-            "id": "0059cbeab9d41d34",
+            "id": "8110e6c9dceecc63",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0fe815a54e3009c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Atlas/Note/따라하기.md",
+                "file": "TIL/LS Bigdata School/Error.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5190d58abd5a89ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/리스트 list.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4c46f788ddbd6fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Basic Python Programming.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "38fa6b3816275dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/숫자 (number).md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,18 +151,6 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "15a972ae184f489a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Atlas/Maps/옵시디언 101 가이드 사용법.md",
-                "mode": "preview",
-                "source": true
               }
             }
           },
@@ -147,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Atlas/Note/따라하기.md",
+                "file": "TIL/LS Bigdata School/Basic Python Programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Atlas/Note/따라하기.md",
+                "file": "TIL/LS Bigdata School/Basic Python Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Atlas/Note/따라하기.md"
+                "file": "TIL/LS Bigdata School/Basic Python Programming.md"
               }
             }
           },
@@ -202,77 +266,84 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "068c6bc400651c29",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "150489e1f8c0fa87",
+  "active": "94b0d6a06dc58bed",
   "lastOpenFiles": [
-    "Obsidian/Atlas/Note/마크다운과 문법들.md",
-    "Obsidian/Atlas/Note/따라하기.md",
-    "무제 파일.md",
-    "Obsidian/Atlas/Maps/옵시디언 101 가이드 사용법.md",
-    "Obsidian/🏡 Home.md",
-    "TIL/LS Bigdata School/Python.md",
-    "Obsidian/Settings/Templates/Template - 기본.md",
-    "Obsidian/Settings/Templates/Dataview 노트에 연결된 페이지 보기.md",
-    "Obsidian/Settings/Attachments/핀 방법.png",
-    "Obsidian/Settings/Attachments/편집 모드-미리보기 모드.png",
-    "Obsidian/Settings/Attachments/파일 탐색기.png",
-    "Obsidian/Settings/Attachments/태그 플러그인.png",
-    "Obsidian/Settings/Attachments/콜아웃 CSS.png",
-    "Obsidian/Settings/Attachments/책.svg",
-    "Obsidian/Settings/Attachments/지구.svg",
-    "Obsidian/Settings/Attachments/좌-루트-우.png",
-    "Obsidian/Settings/Attachments/좋은메모 2.png",
-    "Obsidian/Settings/Attachments/좋은 메모.png",
-    "Obsidian/Settings/Attachments/메모 철학 5S.md",
-    "Obsidian/Atlas/Note/핀 테스트.md",
-    "Obsidian/Atlas/Note/플러그인.md",
-    "Obsidian/Atlas/Note/파일 관리 및 편집기 기본.md",
-    "Obsidian/Atlas/Note/캔버스 샘플.canvas",
-    "Obsidian/Atlas/Note/지식을 어떻게 연결시키고 관리할 것인가.md",
-    "Obsidian/Atlas/Note/정보의 홍수에서 살겠습니까 정보의 우주에서 살겠습니까.md",
-    "Obsidian/Atlas/Note/정보와 지식을 넘어 지혜로.md",
-    "Obsidian/Atlas/Note/옵시디언과 친해지기.md",
-    "Obsidian/Atlas/Note/블록 레퍼런스.md",
     "Obsidian/Atlas/Note/무엇을 메모할 것인가.md",
-    "Obsidian/Atlas/Note/단축키.md",
-    "Obsidian/Atlas/Note/노트 관리법.md",
-    "Obsidian/Atlas/Note/기본 및 필수 설정.md",
-    "Obsidian/Atlas/Note/Memory comes from emotions and feelings, and these feelings help us to be better decision makers 기억은 감정에서 오고, 감정은 선택에서 온다..md",
-    "Obsidian/Atlas/Note/Excalidraw 샘플.md",
-    "Obsidian/Atlas/Drawings/지식관리 프로세스.md",
     "Obsidian/Atlas/Note/DIKW 피라미드.md",
-    "Obsidian/Atlas/Note/AAA.md",
-    "Obsidian/Settings/Templates",
-    "Obsidian/Settings/Fonts",
-    "Obsidian/Settings/Attachments",
-    "Obsidian/Calendar/Daily Note",
+    "Obsidian/Atlas/Maps/옵시디언 101 가이드 사용법.md",
+    "Obsidian/Atlas/Note/정보의 홍수에서 살겠습니까 정보의 우주에서 살겠습니까.md",
+    "Obsidian/Atlas/Note/파일 관리 및 편집기 기본.md",
+    "Obsidian/Settings/Attachments/작은 지구.svg",
+    "Obsidian/Atlas/Drawings/지식관리 프로세스.md",
+    "Obsidian/Atlas/Note/캔버스 샘플.canvas",
+    "Obsidian/Atlas/Note/따라하기.md",
+    "Obsidian/Atlas/Note/정보와 지식을 넘어 지혜로.md",
+    "Obsidian/Settings/Attachments/메모 철학 5S.md",
+    "Obsidian/Atlas/Note/마크다운과 문법들.md",
+    "Obsidian/Atlas/Note/Memory comes from emotions and feelings, and these feelings help us to be better decision makers 기억은 감정에서 오고, 감정은 선택에서 온다..md",
+    "Obsidian/Atlas/Note/플러그인.md",
+    "Obsidian/Settings/Attachments/금덩이 많이.svg",
+    "Obsidian/+/노트 연결.md",
+    "Obsidian/Settings/Attachments/지구.svg",
+    "Obsidian/Atlas/Note/기본 및 필수 설정.md",
+    "Obsidian/Atlas/Note/Excalidraw 샘플.md",
+    "Obsidian/Atlas/Note/블록 레퍼런스.md",
+    "Obsidian/Settings/Templates/Dataview 노트에 연결된 페이지 보기.md",
+    "Obsidian/Settings/Attachments/금덩이.svg",
+    "Obsidian/Atlas/Note/지식을 어떻게 연결시키고 관리할 것인가.md",
+    "Obsidian/Atlas/Note/노트 관리법.md",
+    "Obsidian/🏡 Home.md",
+    "Obsidian/Atlas/Note/옵시디언과 친해지기.md",
+    "Obsidian/+/Properties 샘플.md",
+    "Obsidian/Settings/Templates/Template - 기본.md",
+    "Obsidian/Atlas/Note/단축키.md",
+    "Obsidian/Settings/Attachments/정보의 우주2.png",
+    "Obsidian/Settings/Attachments/CleanShot 2023-10-06 at 00.05.49@2x.png",
+    "Obsidian/Settings/Attachments/정보의 홍수.jpg",
+    "Obsidian/Settings/Attachments/고양이 사진.png",
+    "Obsidian/Settings/Attachments/ICBM.jpg",
+    "Obsidian/Settings/Attachments/소스모드-라이브 미리보기.png",
+    "Obsidian/+/CCC.md",
     "Obsidian/Atlas/Note",
     "Obsidian/Atlas/Maps",
     "Obsidian/Atlas/Drawings",
+    "Obsidian/Settings/Templates",
+    "Obsidian/Settings/Attachments",
     "Obsidian/Settings",
     "Obsidian/Effort",
-    "Obsidian/Calendar",
+    "Obsidian/Atlas",
+    "Obsidian/+",
+    "Obsidian",
+    "Untitled.canvas",
     "무제 파일.canvas",
     "Obsidian 101/Atlas/Note/캔버스 샘플.canvas",
-    "Obsidian 102/Atlas/Note/캔버스 샘플.canvas",
-    "Untitled.canvas"
+    "Obsidian 102/Atlas/Note/캔버스 샘플.canvas"
   ]
 }

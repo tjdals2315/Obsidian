@@ -905,11 +905,84 @@ print(list(evens))
 ## 람다
 - 간단한 함수를 쉽게 선언하는 방법
 > lambda 매개변수: 리턴값
+```py
+test = lambda x, y: x + y
+print(test(1, 3))
+
+print((lambda x, y: x + y)(1, 3))
+```
 
 ## 딕셔너리에서 함수 사용
+> **리스트에서 사용했던 함수를 딕셔너리에서 사용하는 방법 **
+### 함수 `min()` & `max()`
+- 키워드 매개변수 key에 콜백 함수로 사용
+- 콜백 함수의 매개변수 이름은 딕셔너리 이름과 같지 않아도 됨
 
-  
+### 함수 `sort()`
+- 리스트 요소를 정려하는 함수
+- 파괴적 함수이므로 원본 변경
+```py
+# ascending order
+players = [{"name": "John",
+			"height": 189},
+			{"name": "Alice",
+			"height": 178},
+			{"name": "Eva",
+			"height": 182}
+			]
+players.sort(key = lambda x: x["height"])
+print(players)
+```
 
+```py
+# descending order
+players = [{"name": "John",
+			"height": 189},
+			{"name": "Alice",
+			"height": 178},
+			{"name": "Eva",
+			"height": 182}
+			]
+players.sort(key = lambda x: x["height"], reverse=True)
+print(players)
+```
+### 함수 `sorted()` - 모든 이터러블 사용 가능
+- 리스트
+```py
+a = [1,45,72,23,8]
+# ascending order
+print(sorted(a))
+# descending order
+print(sorted(a, reverse = True))
+```
+
+- 튜플
+```py
+a = (1,45,72,23,8)
+# ascending order
+print(sorted(a))
+# descending order
+print(sorted(a, reverse = True))
+```
+
+- 딕셔너리
+```py
+a = { 
+	"name": "John",
+	"age": 19,
+	"height": 79
+}
+# ascending order
+print(sorted(a))
+# descending order
+print(sorted(a, reverse = True))
+```
+
+```py
+a = "This is Python class"
+
+print(sorted(a.split()))
+```
 # 파일 읽기
 
   

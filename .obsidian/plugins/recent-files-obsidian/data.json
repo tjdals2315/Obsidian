@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "따라하기",
-      "path": "Obsidian/Atlas/Note/따라하기.md"
+      "basename": "Basic Python Programming",
+      "path": "TIL/LS Bigdata School/Basic Python Programming.md"
     },
     {
-      "basename": "마크다운과 문법들",
-      "path": "Obsidian/Atlas/Note/마크다운과 문법들.md"
+      "basename": "Error",
+      "path": "TIL/LS Bigdata School/Error.md"
+    },
+    {
+      "basename": "튜플 tuple",
+      "path": "TIL/LS Bigdata School/튜플 tuple.md"
+    },
+    {
+      "basename": "Markdown Tip",
+      "path": "Markdown Tip.md"
+    },
+    {
+      "basename": "Drawing 2024-02-27 09.58.17.excalidraw",
+      "path": "Excalidraw/Drawing 2024-02-27 09.58.17.excalidraw.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "무제 파일.canvas"
+    },
+    {
+      "basename": "Drawing 2024-02-27 09.58.18.excalidraw",
+      "path": "Excalidraw/Drawing 2024-02-27 09.58.18.excalidraw.md"
+    },
+    {
+      "basename": "Python",
+      "path": "TIL/LS Bigdata School/Python.md"
+    },
+    {
+      "basename": "사용자 정의 함수",
+      "path": "TIL/LS Bigdata School/사용자 정의 함수.md"
+    },
+    {
+      "basename": "딕셔너리 dictionary",
+      "path": "TIL/LS Bigdata School/딕셔너리 dictionary.md"
+    },
+    {
+      "basename": "FDE5FD3B-23F6-48B3-8F3A-F9EC405E3BCA_1_105_c",
+      "path": "FDE5FD3B-23F6-48B3-8F3A-F9EC405E3BCA_1_105_c.jpeg"
+    },
+    {
+      "basename": "리스트 list",
+      "path": "TIL/LS Bigdata School/리스트 list.md"
+    },
+    {
+      "basename": "불 (boolean)",
+      "path": "TIL/LS Bigdata School/불 (boolean).md"
+    },
+    {
+      "basename": "숫자 (number)",
+      "path": "TIL/LS Bigdata School/숫자 (number).md"
+    },
+    {
+      "basename": "문자열 (string)",
+      "path": "TIL/LS Bigdata School/문자열 (string).md"
     }
   ],
   "omittedPaths": [],
