@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "사용자 정의 함수",
+      "path": "TIL/LS Bigdata School/Python/사용자 정의 함수.md"
+    },
+    {
+      "basename": "문자열 (string)",
+      "path": "TIL/LS Bigdata School/Python/문자열 (string).md"
+    },
+    {
       "basename": "Drawing 2024-02-29 20.35.49.excalidraw",
       "path": "Excalidraw/Drawing 2024-02-29 20.35.49.excalidraw.md"
+    },
+    {
+      "basename": "불 (boolean)",
+      "path": "TIL/LS Bigdata School/Python/불 (boolean).md"
     },
     {
       "basename": "무제 파일 1",
@@ -21,20 +33,12 @@
       "path": "TIL/LS Bigdata School/Error.md"
     },
     {
-      "basename": "불 (boolean)",
-      "path": "TIL/LS Bigdata School/Python/불 (boolean).md"
-    },
-    {
       "basename": "Basic Python Programming",
       "path": "TIL/LS Bigdata School/Python/Basic Python Programming.md"
     },
     {
       "basename": "숫자 (number)",
       "path": "TIL/LS Bigdata School/Python/숫자 (number).md"
-    },
-    {
-      "basename": "문자열 (string)",
-      "path": "TIL/LS Bigdata School/Python/문자열 (string).md"
     },
     {
       "basename": "Python",
@@ -55,10 +59,6 @@
     {
       "basename": "튜플 tuple",
       "path": "TIL/LS Bigdata School/Python/튜플 tuple.md"
-    },
-    {
-      "basename": "사용자 정의 함수",
-      "path": "TIL/LS Bigdata School/Python/사용자 정의 함수.md"
     },
     {
       "basename": "이터레이터",
