@@ -1008,3 +1008,9 @@ print(sorted(a.split()))
   
 
 ### 텍스트 파일 한 줄씩 읽기
+
+```sql
+
+```
+
+## [[Error]]

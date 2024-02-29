@@ -33,34 +33,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "143236da75abcabc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "무제 파일 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "97f9fd73c41ac257",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 20.35.49.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "5ce6d98d9c17f50a",
@@ -197,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 20.35.49.excalidraw.md",
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 20.35.49.excalidraw.md",
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 20.35.49.excalidraw.md"
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md"
               }
             }
           },
@@ -267,7 +242,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-29 20.35.49.excalidraw.md"
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md"
               }
             }
           }
@@ -286,32 +261,66 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "97f9fd73c41ac257",
+  "floating": {
+    "id": "85f40be911bb27cc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "629c7190127e1c94",
+        "type": "window",
+        "children": [
+          {
+            "id": "245a4d201830a98e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7734de14a74c1e40",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 710,
+        "y": 18,
+        "width": 828,
+        "height": 878,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7734de14a74c1e40",
   "lastOpenFiles": [
-    "무제 파일 1.canvas",
-    "Excalidraw/Drawing 2024-02-29 20.35.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-27 09.58.17.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-27 09.58.18.excalidraw.md",
-    "TIL/LS Bigdata School/Error.md",
-    "TIL/LS Bigdata School/Python/불 (boolean).md",
-    "TIL/LS Bigdata School/Python/Basic Python Programming.md",
-    "TIL/LS Bigdata School/Python/숫자 (number).md",
-    "TIL/LS Bigdata School/Python/문자열 (string).md",
     "TIL/LS Bigdata School/Python.md",
-    "무제 파일.canvas",
-    "FDE5FD3B-23F6-48B3-8F3A-F9EC405E3BCA_1_105_c.jpeg",
-    "Markdown Tip.md",
     "TIL/LS Bigdata School/Python",
+    "TIL/LS Bigdata School/Python/Basic Python Programming.md",
+    "TIL/LS Bigdata School/Error.md",
     "TIL/LS Bigdata School/Python/튜플 tuple.md",
+    "Markdown Tip.md",
+    "FDE5FD3B-23F6-48B3-8F3A-F9EC405E3BCA_1_105_c.jpeg",
     "TIL/LS Bigdata School/파이썬 기초.md",
+    "Excalidraw/Drawing 2024-02-27 09.58.17.excalidraw.md",
+    "무제 파일.canvas",
+    "Excalidraw/Drawing 2024-02-27 09.58.18.excalidraw.md",
     "Excalidraw",
     "TIL/LS Bigdata School/Python/사용자 정의 함수.md",
     "TIL/LS Bigdata School/Python/딕셔너리 dictionary.md",
     "TIL/LS Bigdata School/무제 파일.md",
-    "TIL/LS Bigdata School/Python/리스트 list.md"
+    "TIL/LS Bigdata School/Python/리스트 list.md",
+    "TIL/LS Bigdata School/Python/불 (boolean).md",
+    "TIL/LS Bigdata School/Python/숫자 (number).md",
+    "TIL/LS Bigdata School/Python/문자열 (string).md"
   ]
 }
