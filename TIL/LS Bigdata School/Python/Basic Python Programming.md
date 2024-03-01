@@ -1045,18 +1045,6 @@ with open("basic.txt", "w") as file:
 	file.write("Hello python! Nice to meet you.")
 ```
 
-### 파일에 텍스트 쓰기
-
-  
-
-### 파일 읽기
-
-  
-
-### 키워드 with
-
-  
-
 ### 텍스트 파일 한 줄씩 읽기
 
 ```sql
