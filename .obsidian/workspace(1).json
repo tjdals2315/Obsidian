@@ -37,18 +37,6 @@
             }
           },
           {
-            "id": "6ced9f924b761cc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/LS Bigdata School/Error.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "bd04f093554d14cc",
             "type": "leaf",
             "state": {
@@ -73,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a774bd75892d672d",
@@ -101,21 +89,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "fc7522e806e4451a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/LS Bigdata School/Error.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/LS Bigdata School/Error.md",
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/LS Bigdata School/Error.md",
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/LS Bigdata School/Error.md"
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md"
               }
             }
           },
@@ -278,8 +254,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ced9f924b761cc2",
+  "active": "94b0d6a06dc58bed",
   "lastOpenFiles": [
+    "TIL/LS Bigdata School/Error.md",
     "새 텍스트 문서.txt",
     "TIL/LS Bigdata School/불 (boolean).md",
     "TIL/LS Bigdata School/이터레이터.md",
@@ -289,7 +266,6 @@
     "TIL/LS Bigdata School/딕셔너리 dictionary.md",
     "TIL/LS Bigdata School/딕셔너리로 반복문.md",
     "TIL/LS Bigdata School/Python.md",
-    "TIL/LS Bigdata School/Error.md",
     "TIL/LS Bigdata School/Python/Basic Python Programming.md",
     "Markdown Tip.md",
     "TIL/LS Bigdata School/Python/사용자 정의 함수.md",
@@ -326,7 +302,6 @@
     "Obsidian/Effort",
     "Obsidian/Atlas",
     "Obsidian/+",
-    "Obsidian",
     "Untitled.canvas",
     "무제 파일.canvas",
     "Obsidian 101/Atlas/Note/캔버스 샘플.canvas",
