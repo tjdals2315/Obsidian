@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Error",
-      "path": "TIL/LS Bigdata School/Error.md"
+      "basename": "Basic Python Programming",
+      "path": "TIL/LS Bigdata School/Python/Basic Python Programming.md"
     },
     {
       "basename": "Python",
       "path": "TIL/LS Bigdata School/Python.md"
-    },
-    {
-      "basename": "Basic Python Programming",
-      "path": "TIL/LS Bigdata School/Python/Basic Python Programming.md"
     },
     {
       "basename": "Markdown Tip",
@@ -19,6 +15,10 @@
     {
       "basename": "사용자 정의 함수",
       "path": "TIL/LS Bigdata School/Python/사용자 정의 함수.md"
+    },
+    {
+      "basename": "Error",
+      "path": "TIL/LS Bigdata School/Error.md"
     },
     {
       "basename": "문자열 (string)",
