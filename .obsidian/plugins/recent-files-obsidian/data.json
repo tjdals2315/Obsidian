@@ -5,12 +5,12 @@
       "path": "TIL/LS Bigdata School/Python/Basic Python Programming.md"
     },
     {
-      "basename": "Error",
-      "path": "TIL/LS Bigdata School/Error.md"
-    },
-    {
       "basename": "사용자 정의 함수",
       "path": "TIL/LS Bigdata School/Python/사용자 정의 함수.md"
+    },
+    {
+      "basename": "Error",
+      "path": "TIL/LS Bigdata School/Error.md"
     },
     {
       "basename": "문자열 (string)",

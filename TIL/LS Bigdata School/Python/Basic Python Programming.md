@@ -1015,13 +1015,24 @@ print(sorted(a.split()))
 
 ```py
 # 파일 열기
-file = open('base.txt', "w")
+file = open("base.txt", "w")
 # 텍스트 쓰기
 file.write("Hello python! Nice to meet you.")
 # 파일 닫기
-fil
+file.close
 ```
+↪ 프로그램과 같은 폴더에 "basic.txt"라는 파일이 생성되고 그 파일안에 "Hello python! Nice to meet you."란 글이 쓰여 있다.
 
+```py
+# 파일 열기
+file = open("base.txt", "r")
+# 텍스트 읽기
+contents = file.read()
+print(contents)
+# 파일 닫기
+file.close()
+```
+↪ 
 
 ### 파일에 텍스트 쓰기
 
