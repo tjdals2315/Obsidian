@@ -260,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -278,14 +278,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc7522e806e4451a",
+  "active": "6ced9f924b761cc2",
   "lastOpenFiles": [
+    "새 텍스트 문서.txt",
+    "TIL/LS Bigdata School/불 (boolean).md",
+    "TIL/LS Bigdata School/이터레이터.md",
+    "TIL/LS Bigdata School/리스트 list.md",
+    "TIL/LS Bigdata School/숫자 (number).md",
+    "TIL/LS Bigdata School/문자열 (string).md",
+    "TIL/LS Bigdata School/딕셔너리 dictionary.md",
+    "TIL/LS Bigdata School/딕셔너리로 반복문.md",
     "TIL/LS Bigdata School/Python.md",
     "TIL/LS Bigdata School/Error.md",
     "TIL/LS Bigdata School/Python/Basic Python Programming.md",
     "Markdown Tip.md",
     "TIL/LS Bigdata School/Python/사용자 정의 함수.md",
-    "TIL/LS Bigdata School/이터레이터.md",
     "TIL/LS Bigdata School/Basic Python Programming.md",
     "Obsidian/Atlas/Note/무엇을 메모할 것인가.md",
     "Obsidian/Atlas/Note/DIKW 피라미드.md",
@@ -302,15 +309,8 @@
     "Obsidian/Atlas/Note/Memory comes from emotions and feelings, and these feelings help us to be better decision makers 기억은 감정에서 오고, 감정은 선택에서 온다..md",
     "Obsidian/Atlas/Note/플러그인.md",
     "Obsidian/Settings/Attachments/금덩이 많이.svg",
-    "Obsidian/+/노트 연결.md",
     "Obsidian/Settings/Attachments/지구.svg",
-    "Obsidian/Atlas/Note/기본 및 필수 설정.md",
-    "Obsidian/Atlas/Note/Excalidraw 샘플.md",
-    "Obsidian/Atlas/Note/블록 레퍼런스.md",
-    "Obsidian/Settings/Templates/Dataview 노트에 연결된 페이지 보기.md",
     "Obsidian/Settings/Attachments/금덩이.svg",
-    "Obsidian/Atlas/Note/지식을 어떻게 연결시키고 관리할 것인가.md",
-    "Obsidian/Atlas/Note/노트 관리법.md",
     "Obsidian/Settings/Attachments/정보의 우주2.png",
     "Obsidian/Settings/Attachments/CleanShot 2023-10-06 at 00.05.49@2x.png",
     "Obsidian/Settings/Attachments/정보의 홍수.jpg",
