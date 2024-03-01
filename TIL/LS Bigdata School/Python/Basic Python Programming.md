@@ -1032,7 +1032,11 @@ print(contents)
 # 파일 닫기
 file.close()
 ```
-↪ 
+↪ "Hello python! Nice to meet you."가 출력됨
+
+- 키워드 `with`
+: 파일을 열고 닫지 않는 실수를 방지하기위해 사용 → with 문이 끝나면 자동으로 파일이 닫힘
+> with open (문자열: 파일 경로, 문자여)
 
 ### 파일에 텍스트 쓰기
 
