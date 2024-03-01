@@ -1,47 +1,131 @@
 {
   "main": {
-    "id": "1e01fd1a88a48dc9",
+    "id": "b19e97324d79aa2d",
     "type": "split",
     "children": [
       {
-        "id": "d633963233f24b0f",
+        "id": "5632729d8dd9d84b",
         "type": "tabs",
+        "dimension": 56.14035087719298,
         "children": [
           {
-            "id": "74d4b923ef751666",
+            "id": "e17dc81f8240ca74",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "94b0d6a06dc58bed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "9ae50645f0742834",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ced9f924b761cc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/LS Bigdata School/Python/사용자 정의 함수.md",
-                "mode": "preview",
+                "file": "TIL/LS Bigdata School/Error.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a774bd75892d672d",
+        "type": "tabs",
+        "dimension": 43.859649122807014,
+        "children": [
+          {
+            "id": "8110e6c9dceecc63",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0fe815a54e3009c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Error.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5190d58abd5a89ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c46f788ddbd6fb0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "38fa6b3816275dba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b9661a1e90954a83",
+    "id": "b70e31b7f2607eaf",
     "type": "split",
     "children": [
       {
-        "id": "34f257bb40cc016d",
+        "id": "251fc705aa9ee07e",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff280d8277fb9f0",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "8eba737fc1ee1cc3",
+            "id": "44cec36e3589937d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +135,7 @@
             }
           },
           {
-            "id": "2bd74875b5ae1125",
+            "id": "7dda4cd6105cf04c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +150,7 @@
             }
           },
           {
-            "id": "ac74eeea2d19cc44",
+            "id": "877c843eb0fe9ce7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,50 +158,62 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "2e8b5a71040b184e",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "18f402679b25d921",
+        "id": "07c4625e22271c29",
         "type": "tabs",
         "children": [
           {
-            "id": "de62878e59ffd709",
+            "id": "f789ad2ef4db456a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7440bc5f38f39eed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fb6b4f2eaeca6e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f94c7cdaa2f3e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/LS Bigdata School/Python/사용자 정의 함수.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "83ddba98553ea0e6",
+            "id": "12534a8a6f871e1f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/LS Bigdata School/Python/사용자 정의 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d6e204637787f085",
+            "id": "ae25d9c930f0044d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +224,15 @@
             }
           },
           {
-            "id": "d227f6440129bcd3",
+            "id": "f1a3ad47edc1329b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d17f948212843d4c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -140,38 +244,84 @@
             }
           },
           {
-            "id": "eb580c1b9b88ce1b",
+            "id": "068c6bc400651c29",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "TIL/LS Bigdata School/Python/사용자 정의 함수.md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74d4b923ef751666",
+  "active": "9ae50645f0742834",
   "lastOpenFiles": [
-    "TIL/LS Bigdata School/Python/문자열 (string).md",
-    "Excalidraw/Drawing 2024-02-29 20.35.49.excalidraw.md",
-    "TIL/LS Bigdata School/Python/불 (boolean).md"
+    "TIL/LS Bigdata School/이터레이터.md",
+    "TIL/LS Bigdata School/Basic Python Programming.md",
+    "Obsidian/Atlas/Note/무엇을 메모할 것인가.md",
+    "Obsidian/Atlas/Note/DIKW 피라미드.md",
+    "Obsidian/Atlas/Maps/옵시디언 101 가이드 사용법.md",
+    "Obsidian/Atlas/Note/정보의 홍수에서 살겠습니까 정보의 우주에서 살겠습니까.md",
+    "Obsidian/Atlas/Note/파일 관리 및 편집기 기본.md",
+    "Obsidian/Settings/Attachments/작은 지구.svg",
+    "Obsidian/Atlas/Drawings/지식관리 프로세스.md",
+    "Obsidian/Atlas/Note/캔버스 샘플.canvas",
+    "Obsidian/Atlas/Note/따라하기.md",
+    "Obsidian/Atlas/Note/정보와 지식을 넘어 지혜로.md",
+    "Obsidian/Settings/Attachments/메모 철학 5S.md",
+    "Obsidian/Atlas/Note/마크다운과 문법들.md",
+    "Obsidian/Atlas/Note/Memory comes from emotions and feelings, and these feelings help us to be better decision makers 기억은 감정에서 오고, 감정은 선택에서 온다..md",
+    "Obsidian/Atlas/Note/플러그인.md",
+    "Obsidian/Settings/Attachments/금덩이 많이.svg",
+    "Obsidian/+/노트 연결.md",
+    "Obsidian/Settings/Attachments/지구.svg",
+    "Obsidian/Atlas/Note/기본 및 필수 설정.md",
+    "Obsidian/Atlas/Note/Excalidraw 샘플.md",
+    "Obsidian/Atlas/Note/블록 레퍼런스.md",
+    "Obsidian/Settings/Templates/Dataview 노트에 연결된 페이지 보기.md",
+    "Obsidian/Settings/Attachments/금덩이.svg",
+    "Obsidian/Atlas/Note/지식을 어떻게 연결시키고 관리할 것인가.md",
+    "Obsidian/Atlas/Note/노트 관리법.md",
+    "Obsidian/🏡 Home.md",
+    "Obsidian/Atlas/Note/옵시디언과 친해지기.md",
+    "Obsidian/+/Properties 샘플.md",
+    "Obsidian/Settings/Templates/Template - 기본.md",
+    "Obsidian/Atlas/Note/단축키.md",
+    "Obsidian/Settings/Attachments/정보의 우주2.png",
+    "Obsidian/Settings/Attachments/CleanShot 2023-10-06 at 00.05.49@2x.png",
+    "Obsidian/Settings/Attachments/정보의 홍수.jpg",
+    "Obsidian/Settings/Attachments/고양이 사진.png",
+    "Obsidian/Settings/Attachments/ICBM.jpg",
+    "Obsidian/Settings/Attachments/소스모드-라이브 미리보기.png",
+    "Obsidian/Atlas/Note",
+    "Obsidian/Atlas/Maps",
+    "Obsidian/Atlas/Drawings",
+    "Obsidian/Settings/Templates",
+    "Obsidian/Settings/Attachments",
+    "Obsidian/Settings",
+    "Obsidian/Effort",
+    "Obsidian/Atlas",
+    "Obsidian/+",
+    "Obsidian",
+    "Untitled.canvas",
+    "무제 파일.canvas",
+    "Obsidian 101/Atlas/Note/캔버스 샘플.canvas",
+    "Obsidian 102/Atlas/Note/캔버스 샘플.canvas"
   ]
 }
