@@ -1,3 +1,0 @@
-# [[Basic Python Programming]]
-
-
