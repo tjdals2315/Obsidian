@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "b19e97324d79aa2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5632729d8dd9d84b",
+        "type": "tabs",
+        "dimension": 52.33918128654971,
+        "children": [
+          {
+            "id": "e17dc81f8240ca74",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "94b0d6a06dc58bed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bd04f093554d14cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python/사용자 정의 함수.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4bbbfba3382c4ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Tip.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a774bd75892d672d",
+        "type": "tabs",
+        "dimension": 47.66081871345029,
+        "children": [
+          {
+            "id": "8110e6c9dceecc63",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0fe815a54e3009c7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b70e31b7f2607eaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "251fc705aa9ee07e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44cec36e3589937d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7dda4cd6105cf04c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "877c843eb0fe9ce7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "07c4625e22271c29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f789ad2ef4db456a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7440bc5f38f39eed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fb6b4f2eaeca6e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f94c7cdaa2f3e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "12534a8a6f871e1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae25d9c930f0044d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f1a3ad47edc1329b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md"
+              }
+            }
+          },
+          {
+            "id": "d17f948212843d4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "068c6bc400651c29",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "94b0d6a06dc58bed",
+  "lastOpenFiles": [
+    "TIL/LS Bigdata School/Error.md",
+    "새 텍스트 문서.txt",
+    "TIL/LS Bigdata School/불 (boolean).md",
+    "TIL/LS Bigdata School/이터레이터.md",
+    "TIL/LS Bigdata School/리스트 list.md",
+    "TIL/LS Bigdata School/숫자 (number).md",
+    "TIL/LS Bigdata School/문자열 (string).md",
+    "TIL/LS Bigdata School/딕셔너리 dictionary.md",
+    "TIL/LS Bigdata School/딕셔너리로 반복문.md",
+    "TIL/LS Bigdata School/Python.md",
+    "TIL/LS Bigdata School/Python/Basic Python Programming.md",
+    "Markdown Tip.md",
+    "TIL/LS Bigdata School/Python/사용자 정의 함수.md",
+    "TIL/LS Bigdata School/Basic Python Programming.md",
+    "Obsidian/Atlas/Note/무엇을 메모할 것인가.md",
+    "Obsidian/Atlas/Note/DIKW 피라미드.md",
+    "Obsidian/Atlas/Maps/옵시디언 101 가이드 사용법.md",
+    "Obsidian/Atlas/Note/정보의 홍수에서 살겠습니까 정보의 우주에서 살겠습니까.md",
+    "Obsidian/Atlas/Note/파일 관리 및 편집기 기본.md",
+    "Obsidian/Settings/Attachments/작은 지구.svg",
+    "Obsidian/Atlas/Drawings/지식관리 프로세스.md",
+    "Obsidian/Atlas/Note/캔버스 샘플.canvas",
+    "Obsidian/Atlas/Note/따라하기.md",
+    "Obsidian/Atlas/Note/정보와 지식을 넘어 지혜로.md",
+    "Obsidian/Settings/Attachments/메모 철학 5S.md",
+    "Obsidian/Atlas/Note/마크다운과 문법들.md",
+    "Obsidian/Atlas/Note/Memory comes from emotions and feelings, and these feelings help us to be better decision makers 기억은 감정에서 오고, 감정은 선택에서 온다..md",
+    "Obsidian/Atlas/Note/플러그인.md",
+    "Obsidian/Settings/Attachments/금덩이 많이.svg",
+    "Obsidian/Settings/Attachments/지구.svg",
+    "Obsidian/Settings/Attachments/금덩이.svg",
+    "Obsidian/Settings/Attachments/정보의 우주2.png",
+    "Obsidian/Settings/Attachments/CleanShot 2023-10-06 at 00.05.49@2x.png",
+    "Obsidian/Settings/Attachments/정보의 홍수.jpg",
+    "Obsidian/Settings/Attachments/고양이 사진.png",
+    "Obsidian/Settings/Attachments/ICBM.jpg",
+    "Obsidian/Settings/Attachments/소스모드-라이브 미리보기.png",
+    "Obsidian/Atlas/Note",
+    "Obsidian/Atlas/Maps",
+    "Obsidian/Atlas/Drawings",
+    "Obsidian/Settings/Templates",
+    "Obsidian/Settings/Attachments",
+    "Obsidian/Settings",
+    "Obsidian/Effort",
+    "Obsidian/Atlas",
+    "Obsidian/+",
+    "Untitled.canvas",
+    "무제 파일.canvas",
+    "Obsidian 101/Atlas/Note/캔버스 샘플.canvas",
+    "Obsidian 102/Atlas/Note/캔버스 샘플.canvas"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": false,
+  "newFileLocation": "current",
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "showLineNumber": true,
+  "smartIndentList": false,
+  "strictLineBreaks": false,
+  "foldIndent": true
+}

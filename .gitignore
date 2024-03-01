@@ -1,0 +1,19 @@
+.obsidain/
+
+.obsidian/workspace-mobile.json
+.obsidain/workspace.json
+.obsidian/app.json
+
+.trash/
+.DS_Store
+img/
+
+*.json
+
+.obsidian/plugins/
+
+Pasted image 20240302013656
+
+Excalidraw/
+.obsidain/icons/
+.obsidain/plugins/
