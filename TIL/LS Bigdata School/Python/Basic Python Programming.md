@@ -1047,8 +1047,5 @@ with open("basic.txt", "w") as file:
 
 ### 텍스트 파일 한 줄씩 읽기
 
-```sql
-
-```
 
 ## [[Error]]
