@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a774bd75892d672d",
@@ -101,9 +101,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "fc7522e806e4451a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Error.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TIL/LS Bigdata School/Error.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TIL/LS Bigdata School/Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +234,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TIL/LS Bigdata School/Error.md"
+              }
             }
           },
           {
@@ -262,12 +278,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0fe815a54e3009c7",
+  "active": "fc7522e806e4451a",
   "lastOpenFiles": [
+    "TIL/LS Bigdata School/Python.md",
+    "TIL/LS Bigdata School/Error.md",
     "TIL/LS Bigdata School/Python/Basic Python Programming.md",
     "Markdown Tip.md",
     "TIL/LS Bigdata School/Python/사용자 정의 함수.md",
-    "TIL/LS Bigdata School/Error.md",
     "TIL/LS Bigdata School/이터레이터.md",
     "TIL/LS Bigdata School/Basic Python Programming.md",
     "Obsidian/Atlas/Note/무엇을 메모할 것인가.md",
@@ -294,7 +311,6 @@
     "Obsidian/Settings/Attachments/금덩이.svg",
     "Obsidian/Atlas/Note/지식을 어떻게 연결시키고 관리할 것인가.md",
     "Obsidian/Atlas/Note/노트 관리법.md",
-    "Obsidian/🏡 Home.md",
     "Obsidian/Settings/Attachments/정보의 우주2.png",
     "Obsidian/Settings/Attachments/CleanShot 2023-10-06 at 00.05.49@2x.png",
     "Obsidian/Settings/Attachments/정보의 홍수.jpg",

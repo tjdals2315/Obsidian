@@ -1,3 +1,7 @@
+# Syntax error(구문 오류)
+- 프로그
+
+
 ## Value Error
 - 숫자가 아닌 값을 숫자로 변환하는 경우
 	```py
@@ -40,4 +44,5 @@ if last_no % 2 == 0:
 else:
   raise NotImplementedError
 ```
+
 
