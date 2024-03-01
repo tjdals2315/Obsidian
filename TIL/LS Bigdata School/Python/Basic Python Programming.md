@@ -1011,6 +1011,18 @@ print(sorted(a.split()))
 |  a   | append 모드(뒤에 이어서 쓰기 모드) |
 |  r   |        read 모드(읽기 모드)        |
 
+- 함수 `close()` - 파일 닫기
+
+```py
+# 파일 열기
+file = open('base.txt', "w")
+# 텍스트 쓰기
+file.write("Hello python! Nice to meet you.")
+# 파일 닫기
+fil
+```
+
+
 ### 파일에 텍스트 쓰기
 
   
