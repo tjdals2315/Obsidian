@@ -1036,7 +1036,14 @@ file.close()
 
 - 키워드 `with`
 : 파일을 열고 닫지 않는 실수를 방지하기위해 사용 → with 문이 끝나면 자동으로 파일이 닫힘
-> with open (문자열: 파일 경로, 문자여)
+> with open (문자열: 파일 경로, 문자열: 모드) as 파일 객체: 문장
+
+```py
+# 파일 열기
+with open("basic.txt", "w") as file:
+	# 파일에 텍스트 쓰기
+	file.write("Hello python! Nice to meet you.")
+```
 
 ### 파일에 텍스트 쓰기
 

@@ -6,7 +6,7 @@
       {
         "id": "5632729d8dd9d84b",
         "type": "tabs",
-        "dimension": 56.14035087719298,
+        "dimension": 52.33918128654971,
         "children": [
           {
             "id": "e17dc81f8240ca74",
@@ -59,6 +59,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4bbbfba3382c4ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Tip.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -66,7 +78,7 @@
       {
         "id": "a774bd75892d672d",
         "type": "tabs",
-        "dimension": 43.859649122807014,
+        "dimension": 47.66081871345029,
         "children": [
           {
             "id": "8110e6c9dceecc63",
@@ -260,8 +272,9 @@
   },
   "active": "94b0d6a06dc58bed",
   "lastOpenFiles": [
-    "TIL/LS Bigdata School/Python/사용자 정의 함수.md",
+    "Markdown Tip.md",
     "TIL/LS Bigdata School/Python/Basic Python Programming.md",
+    "TIL/LS Bigdata School/Python/사용자 정의 함수.md",
     "TIL/LS Bigdata School/Error.md",
     "TIL/LS Bigdata School/이터레이터.md",
     "TIL/LS Bigdata School/Basic Python Programming.md",
@@ -290,7 +303,6 @@
     "Obsidian/Atlas/Note/지식을 어떻게 연결시키고 관리할 것인가.md",
     "Obsidian/Atlas/Note/노트 관리법.md",
     "Obsidian/🏡 Home.md",
-    "Obsidian/Atlas/Note/옵시디언과 친해지기.md",
     "Obsidian/Settings/Attachments/정보의 우주2.png",
     "Obsidian/Settings/Attachments/CleanShot 2023-10-06 at 00.05.49@2x.png",
     "Obsidian/Settings/Attachments/정보의 홍수.jpg",
