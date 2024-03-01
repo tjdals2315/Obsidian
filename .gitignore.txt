@@ -1,5 +1,0 @@
-.obsidian/workspace
-
-.trash
-.obsidian
-.img
