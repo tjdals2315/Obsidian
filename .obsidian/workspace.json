@@ -27,17 +27,13 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
+                "mode": "source",
+                "source": true
+              },
               "pinned": true
-            }
-          },
-          {
-            "id": "9ae50645f0742834",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -53,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a774bd75892d672d",
@@ -80,38 +76,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/LS Bigdata School/Error.md",
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "5190d58abd5a89ec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4c46f788ddbd6fb0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "38fa6b3816275dba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TIL/LS Bigdata School/Python/Basic Python Programming.md"
+              }
             }
           },
           {
@@ -270,8 +246,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ae50645f0742834",
+  "active": "94b0d6a06dc58bed",
   "lastOpenFiles": [
+    "TIL/LS Bigdata School/Error.md",
+    "TIL/LS Bigdata School/Python/Basic Python Programming.md",
     "TIL/LS Bigdata School/이터레이터.md",
     "TIL/LS Bigdata School/Basic Python Programming.md",
     "Obsidian/Atlas/Note/무엇을 메모할 것인가.md",
@@ -301,8 +279,6 @@
     "Obsidian/🏡 Home.md",
     "Obsidian/Atlas/Note/옵시디언과 친해지기.md",
     "Obsidian/+/Properties 샘플.md",
-    "Obsidian/Settings/Templates/Template - 기본.md",
-    "Obsidian/Atlas/Note/단축키.md",
     "Obsidian/Settings/Attachments/정보의 우주2.png",
     "Obsidian/Settings/Attachments/CleanShot 2023-10-06 at 00.05.49@2x.png",
     "Obsidian/Settings/Attachments/정보의 홍수.jpg",
